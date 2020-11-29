@@ -5,6 +5,7 @@
 https://github.com/marutoraman/study-201-amazon.git
 
 ## 課題２ ヤフオク自動出品
+https://github.com/marutoraman/moukaru02-yahoo.git
 
 ## 課題３ アリエク情報抽出
 
