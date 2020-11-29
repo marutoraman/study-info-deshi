@@ -2,6 +2,7 @@
 当方が５０万円以上儲けたツールをベースとした課題です。
 
 ## 課題１ Amazon情報抽出
+https://github.com/marutoraman/study-201-amazon.git
 
 ## 課題２ ヤフオク自動出品
 
